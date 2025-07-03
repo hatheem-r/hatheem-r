@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Hatheem Rafeek
 
-<!--
-**hatheem-r/hatheem-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 **Profession:** Developer  
+- 💡 **Top Skills:** Web Development, App Development  
+- 🌟 **Hobbies:** Hiking, Camping, Cycling  
+- 🌐 **Connect:** [LinkedIn](Hatheem Rafeek) | [Twitter](hatheem_r) | [Personal Website](#coming soon)  
+- 💬 **Fun Fact:** "I drink more coffee than my code drinks memory"  
 
-Here are some ideas to get you started:
+> “The journey of a thousand miles begins with a single step.”  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Feel free to reach out or check out my latest projects!
