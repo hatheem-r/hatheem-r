@@ -85,7 +85,7 @@ On the web and mobile side, I build clean, functional full-stack experiences. Of
 
 ```
 AI/ML Engineering        ████████████░░░  Growing
-Agentic AI & LLMs        ████████░░░░░░░  Building
+Agentic AI & LLMs        █████████████░░  Building
 Data Science             ██████████░░░░░  Core study
 Web & App Development    ████████████░░░  Intermediate
 ```
@@ -95,10 +95,6 @@ Web & App Development    ████████████░░░  Intermed
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Hatheem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hatheem-r&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hatheem-r&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hatheem-r&theme=github-dark-blue&hide_border=true)
 
